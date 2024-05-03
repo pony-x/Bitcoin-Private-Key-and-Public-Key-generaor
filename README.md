@@ -34,6 +34,4 @@ This Python script generates a Bitcoin private and public key pair.
 
 - base58
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
